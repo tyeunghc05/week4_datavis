@@ -1,0 +1,5 @@
+"0","ggplot(mpg, aes(x = displ, y = hwy)) + "
+"0","  geom_point(aes(color = class)) +"
+"0","  geom_smooth(colour = ""black"","
+"0","              se= FALSE,"
+"0","              method = ""lm"") "

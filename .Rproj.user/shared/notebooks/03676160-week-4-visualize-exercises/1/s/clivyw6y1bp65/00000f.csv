@@ -1,0 +1,5 @@
+"0","#| label: add-label-help-me"
+"0","# Makes a plot that the commands below will modify"
+"0","q <- ggplot(mpg) + geom_point(aes(x = displ, y = hwy))"
+"0",""
+"0","q + facet_grid(. ~ cyl) # make one row, four column by cyl"

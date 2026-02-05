@@ -1,0 +1,1 @@
+"0","q + facet_grid(drv ~ cyl) # makes three rows by drv, four collumns by cyl"
