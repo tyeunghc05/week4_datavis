@@ -1,0 +1,4 @@
+"0","#| label: add-label-4"
+"0",""
+"0","ggplot(mpg)+"
+"0","  geom_histogram(aes(x=hwy), binwidth = 2, fill= ""blue4"", color = ""black"")"
